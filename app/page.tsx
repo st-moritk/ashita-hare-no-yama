@@ -339,7 +339,7 @@ export default function Home() {
             <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
               <div className="space-y-3">
                 <h1 className="text-3xl font-semibold leading-tight text-slate-900 sm:text-4xl md:text-5xl">
-                  明日晴れの山を、CSVから一気にスクリーニング
+                  明日はれの山
                 </h1>
                 <p className="max-w-3xl text-lg text-slate-700">
                   `public/1003zan20250401.csv` を読み込み、Open-Meteoの予報から
